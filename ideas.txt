@@ -1,0 +1,5 @@
+recetas
+ingredientes
+chequear si tiene los ingredientes
+tiempo
+login?? para creaar receteas
